@@ -55,7 +55,7 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 	);
 	?>
 >
-	<?php
+<?php
 	astra_header_before();
 
 	astra_header();
